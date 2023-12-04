@@ -2,7 +2,7 @@
 <hr>
 <h4> API </h4>
 <p>
-  Reoisitorio onde esta o backend do sistema, desenvolvido em php/laravel.
+  Repositorio onde esta o backend do sistema, desenvolvido em php/laravel.
   Nele estão as conexões com o banco bem como todas as tabelas feitas via ORM.
   O back está funcionando como uma api separada da aplicação visual
 
