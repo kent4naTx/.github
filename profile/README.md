@@ -1,3 +1,4 @@
+<img src="https://lh3.googleusercontent.com/p/AF1QipMrbkI-94GMJPMxjNzbbuIOpHg6JqcYs_A3FnGl=s680-w680-h510" width="400" alt="Laravel Logo">
 <h1>KentanaTx projeto</h1>
 <hr>
 <h4> API </h4>
